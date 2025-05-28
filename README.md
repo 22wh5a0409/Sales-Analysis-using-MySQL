@@ -1,1 +1,1 @@
-# Sales-Analysis-using-MySQL
+# Sales Analysis using MySQL
