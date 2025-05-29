@@ -13,7 +13,7 @@
 
 #  🔄 Steps Included
 
-  --> Database creation and table selection
+  --> Database creation and table selection 
 
   --> Filtering data based on conditions (e.g., date, category, region)
 
