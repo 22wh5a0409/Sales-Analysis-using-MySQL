@@ -1,17 +1,17 @@
 # ${\color{red} Sales \ Analysis \  using \  MySQL}$
 
 
-📌 # Objective
+# 📌 Objective
 
   --> To perform insightful analysis on a retail sales dataset using SQL, identifying sales trends, customer behavior, and revenue performance.
 
-🛠️ # Tools Used
+# 🛠️ Tools Used
 
   --> SQL (MySQL)
 
   --> DBMS (MySQL Workbench or any SQL interface)
 
-🔄 # Steps Included
+#  🔄 Steps Included
 
   --> Database creation and table selection
 
@@ -25,7 +25,7 @@
 
   --> Sorting and pagination with ORDER BY and LIMIT
 
-📊 # Analysis Included
+# 📊 Analysis Included
 
   --> High-value orders shipped via 'Economy' mode
 
@@ -43,7 +43,7 @@
 
   --> Product ranking by total sales
 
-🔍 # Key Insights
+# 🔍 Key Insights
 
  --> Identified cities and customers driving the most revenue
 
@@ -53,7 +53,7 @@
 
  --> Determined customer engagement through order frequency
 
-✅ # Conclusion
+#  ✅ Conclusion
 
  --> This project demonstrates how SQL can be used to extract valuable business insights from raw sales data. The analysis helps businesses make data-driven decisions for sales strategy, customer targeting, and 
      inventory management.
