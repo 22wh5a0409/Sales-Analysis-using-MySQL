@@ -9,7 +9,7 @@
 
   --> SQL (MySQL)
 
-  --> DBMS (MySQL Workbench or any SQL interface)
+  --> DBMS (MySQL Workbench or any SQL interface) 
 
 #  🔄 Steps Included
 
