@@ -3,7 +3,7 @@
 
 # 📌 Objective
 
-  --> To perform insightful analysis on a retail sales dataset using SQL, identifying sales trends, customer behavior, and revenue performance.
+  --> To perform insightful analysis on a retail sales dataset using SQL, identifying sales trends, customer behavior, and revenue performance. 
 
 # 🛠️ Tools Used
 
